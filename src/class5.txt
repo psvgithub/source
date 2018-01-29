@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 class5-F1-commit2
 add some info
 add another info
+=======
+class5 - text from master
+>>>>>>> globalFeature
