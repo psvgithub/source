@@ -1,1 +1,1 @@
-update 3 in class 2
+class5 - text from master
