@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+class2-F1-commit2
+=======
+from master
+>>>>>>> globalFeature

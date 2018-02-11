@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+class4-F1-commit2
+=======
+class4
+-globalFeature
+>>>>>>> globalFeature
